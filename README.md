@@ -732,17 +732,10 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/bumbummen99">
-            <img src="https://avatars.githubusercontent.com/u/4533331?v=4" width="100;" alt="bumbummen99"/>
+        <a href="https://github.com/whoami15">
+            <img src="https://avatars.githubusercontent.com/u/16274153?v=4" width="100;" alt="whoami15"/>
             <br />
-            <sub><b>Patrick</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Sartoric">
-            <img src="https://avatars.githubusercontent.com/u/6607379?v=4" width="100;" alt="Sartoric"/>
-            <br />
-            <sub><b>Sartoric</b></sub>
+            <sub><b>Daryl Ferrer Legion</b></sub>
         </a>
     </td></tr>
 </table>
@@ -853,6 +846,13 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/whoami15">
+            <img src="https://avatars.githubusercontent.com/u/16274153?v=4" width="100;" alt="whoami15"/>
+            <br />
+            <sub><b>Daryl Ferrer Legion</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/geisi">
             <img src="https://avatars.githubusercontent.com/u/10728579?v=4" width="100;" alt="geisi"/>
             <br />
@@ -872,15 +872,15 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
             <br />
             <sub><b>Andrés</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ganyicz">
             <img src="https://avatars.githubusercontent.com/u/3823354?v=4" width="100;" alt="ganyicz"/>
             <br />
             <sub><b>Filip Ganyicz</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/guysolamour">
             <img src="https://avatars.githubusercontent.com/u/22590722?v=4" width="100;" alt="guysolamour"/>
@@ -915,15 +915,15 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
             <br />
             <sub><b>JT Smith</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mrabbani">
             <img src="https://avatars.githubusercontent.com/u/4253979?v=4" width="100;" alt="mrabbani"/>
             <br />
             <sub><b>Mahbub Rabbani</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/xpundel">
             <img src="https://avatars.githubusercontent.com/u/1384653?v=4" width="100;" alt="xpundel"/>
@@ -957,13 +957,6 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
             <img src="https://avatars.githubusercontent.com/u/1322192?v=4" width="100;" alt="PazkaL"/>
             <br />
             <sub><b>Pascal Kousbroek</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/publiux">
-            <img src="https://avatars.githubusercontent.com/u/2847188?v=4" width="100;" alt="publiux"/>
-            <br />
-            <sub><b>Raul Ruiz</b></sub>
         </a>
     </td></tr>
 </table>
